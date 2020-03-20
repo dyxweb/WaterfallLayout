@@ -1,6 +1,6 @@
 .idea
 .vscode
 .project
-.package-lock.json
+package-lock.json
 node_modules
 dist
